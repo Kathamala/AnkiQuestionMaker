@@ -11,7 +11,7 @@ public class Application {
 		String output = "#separator:semicolon\n#html:true\n"; 
 		
 	    try {
-	    	File myObj = new File("src/input/input.txt");
+	    	File myObj = new File("../input.txt");
 	        Scanner myReader = new Scanner(myObj);
 			String data = "";
 			String question = "";
@@ -43,7 +43,7 @@ public class Application {
 	    
 	    BufferedWriter writer;
 		try {
-			writer = new BufferedWriter(new FileWriter("src/output/output.txt"));
+			writer = new BufferedWriter(new FileWriter("../output.txt"));
 			writer.write(output);
 			writer.close();
 		} catch (IOException e) {
