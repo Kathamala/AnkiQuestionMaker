@@ -1,0 +1,7 @@
+#separator:tab
+#html:true
+Como é o quadro clínico da hipertensão intracraniana?	<ul><li>Cefaleia</li><br><li>Papiloedema</li><br><li>Vômitos (podem ser em jato! sem náuseas)</li><br><li>Rebaixamento do nível de consciência</li><br><li>Estrabismo convergente → paralisia do VI</li><br><li>Tríade de Cushing → hipertensão arterial sistêmica + bradicardia + respiração irregular</li><br><li>Sintomas focais por efeito de massa ou herniações (podem ser unilaterais)</li></ul>
+Qual é a tríade de Cushing?	<br>Tríade de Cushing → hipertensão arterial sistêmica + bradicardia + respiração irregular
+Quais são as principais causas de rebaixamento do nível de consciência?	<ul><li>Causas difusas (tóxicas e/ou metabólicas) - 65%</li><li>Lesões supratentoriais - 20 a 25%</li><li>Lesões infratentoriais - 10 a 15%</li></ul>
+Como avaliar clinicamente um paciente com rebaixamento do nível de consciência?	<ol><li>Escala de Glasgow</li><li>Pupilas e fundo de olho</li><li>Motricidade ocular extrínseca</li><li>Padrão de resposta motora</li><li>Padrão respiratório</li></ol>
+Como avaliar abertura ocular na escala de Glasgow?	"<ol><li>Sem abertura ocular</li><li>Em resposta a dor</li><li>Ao chamado</li><li>Espontânea</li></ol><ol><li><img src=""https://file.notion.so/f/f/bb9c6fba-f8ba-4f55-a83a-48eb07a3e31b/5ea1cd42-9876-4d6f-9265-0af2f8a5a7a5/Untitled.png?id=9ab0bad9-9f38-4a53-966a-752f99ee4132&table=block&spaceId=bb9c6fba-f8ba-4f55-a83a-48eb07a3e31b&expirationTimestamp=1710720000000&signature=HRIfZqAwbuORhxH2jjBZAAhpk7dU00lm0hj5hB94a8g&downloadName=Untitled.png""><br></li></ol>"
