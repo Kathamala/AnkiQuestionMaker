@@ -11,7 +11,7 @@ public class Application {
 		String output = "#separator:semicolon\n#html:true\n"; 
 		
 	    try {
-	    	File myObj = new File("src/input/Exemplo Notion Questions.txt");
+	    	File myObj = new File("src/input/input.txt");
 	        Scanner myReader = new Scanner(myObj);
 			String data = "";
 			String question = "";
