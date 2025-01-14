@@ -1,5 +1,5 @@
 # AnkiQuestionMaker
-Java program to convert Notion questions into Anki Cards.
+Python program to convert Notion questions into Anki Cards.
 
 Formato esperado para conversão:
 
@@ -12,3 +12,4 @@ Formato esperado para conversão:
 | Link         | ???                | Linha 5  | Linha 5  | Linha 5  |
 
 Ao importar no Anki, deve-se habilitar opção para "Permitir HTML em campos".
+![image](https://github.com/user-attachments/assets/24a84f3a-3d03-4466-b685-034120853d17)
