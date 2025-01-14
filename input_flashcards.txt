@@ -1,0 +1,267 @@
+# Doenças do Couro Cabeludo flashcards
+
+- O que é o cabelo?
+    - Produto do folículo piloso, composto por proteínas e lipídios.
+    - Matéria morta.
+- Quais são as funções do cabelo?
+    - Proteção contra radiação UV e comunicação/identidade.
+- Quando o folículo piloso se desenvolve?
+    - Entre a 9ª e a 22ª semana de vida.
+- Qual é a origem embrionária do folículo piloso?
+    - Ectoderma e mesoderma.
+- Onde não existem folículos pilosos no corpo?
+    - Palmas, plantas, boca e região genital mais interna.
+- Qual tipo de cabelo tem maior densidade de fios?
+    - Caucasiano.
+    
+    A ordem é caucasiano > oriental > afro.
+    
+- Qual região do couro cabeludo tem maior densidade de fios?
+    - Vértice.
+    - A ordem é vértice > occipital > temporal
+- Qual tipo de cabelo tem fios mais espessos?
+    - Oriental.
+    - A ordem é oriental > caucasiano > afro
+- Como a idade afeta o cabelo?
+    - Densidade reduz a partir dos 30 anos e espessura a partir dos 50 anos.
+- Quais são os tipos de fios de cabelo?
+    - Lanugo, velus e terminal.
+    
+    Obs.:
+    
+    - **Lanugo:**
+        - Fase anágena dura 1 a 3 meses.
+        - Tamanho: 1-2 cm.
+    - **Velus:**
+        - Fase anágena dura 1 a 2 semanas.
+        - Tamanho: < 2 cm.
+    - **Terminal:**
+        - Fase anágena dura > 1 ano.
+        - Tamanho: > 100 cm.
+        - Proporção: 7 fios terminais para cada fio velus no couro cabeludo.
+- Quais são as partes do folículo piloso?
+    - Porção superior
+        - Infundíbulo
+        - Istmo
+            - Bulge
+    - Porção inferior
+        - Região suprabulbar + bulbo
+- Qual é a importância do bulge?
+    
+    É um reservatório de células-tronco, garantindo a renovação dos fios.
+    
+- O que compõe o bulbo?
+    
+    Matriz germinativa e papila dérmica.
+    
+- O que é imunoprivilégio do bulbo?
+    
+    Ausência de MHC e secreção de citocinas imunossupressoras na fase anágena.
+    
+- O que compõe a unidade folicular?
+    
+    Músculo eretor do pelo, glândula sebácea e n folículos.
+    
+- Quais são as camadas da haste capilar?
+    
+    Medula, córtex e cutícula.
+    
+- O que é alopecia?
+    
+    Rarefação capilar causada por queda patológica.
+    
+- Quais são os tipos de alopecia quanto à localização?
+    
+    Localizada e difusa.
+    
+- Quais são os tipos de alopecia quanto à etiopatogenia?
+    
+    Não cicatriciais e primariamente cicatriciais.
+    
+- Dê exemplos de alopecias não cicatriciais.
+    
+    Alopecia areata, tínea capitis e alopecia sifilítica.
+    
+- Quais são os mecanismos das alopecias cicatriciais?
+    
+    Linfocíticas, neutrofílicas e mistas.
+    
+- Dê um exemplo de alopecia cicatricial.
+    
+    LES (lúpus eritematoso sistêmico).
+    
+- Quais sinais sugerem alopecia cicatricial?
+    
+    Dor, prurido e ardência.
+    
+- Quais são os gatilhos para o lúpus eritematoso?
+    
+    Exposição solar, infecções e estresse.
+    
+- Por que ocorre necrose de queratinócitos e apoptose do folículo piloso no LE?
+    
+    Devido ao infiltrado inflamatório que afeta o istmo do folículo.
+    
+- Onde ocorre o infiltrado inflamatório no LE cutâneo?
+    
+    No istmo do folículo piloso.
+    
+- Quais alterações de pele são características no LE?
+    
+    Eritema, hiperpigmentação e descamação.
+    
+- Qual achado específico pode aparecer no pavilhão auricular no LE?
+    
+    Hiperpigmentação.
+    
+- Quais são os achados tricoscópicos no LE?
+    - Telangiectasias arboriformes
+    - Plugs foliculares
+    - Eritema perifolicular
+    - Descamação perifolicular
+    - Discromia
+- O que são plugs foliculares?
+    
+    Hiperceratose na saída do folículo piloso, sinal de atividade do LE.
+    
+- Quais são os sinais tricoscópicos de atividade do LE?
+    
+    Telangiectasias arboriformes, eritema perifolicular, descamação perifolicular e plugs foliculares.
+    
+- Quais são as lesões residuais do LE cutâneo?
+    
+    Hipopigmentação no centro, hiperpigmentação na periferia, atrofia.
+    
+- Como é feito o diagnóstico de LE cutâneo?
+    
+    Baseia-se em clínica, achados tricoscópicos, histopatologia e exames laboratoriais.
+    
+- Quais são os tratamentos para LE cutâneo?
+    
+    Corticoide tópico, intralesional e oral; antimaláricos e imunossupressores.
+    
+- Quais fatores podem desencadear alopecia areata?
+    
+    Vacinas, medicamentos, estresse emocional e infecções.
+    
+- O que ocorre no bulbo folicular na alopecia areata?
+    
+    Perda do imunoprivilégio, com aumento da expressão de MHC.
+    
+- Qual a apresentação clínica mais comum da alopecia areata?
+    
+    Placa de alopecia.
+    
+- Quais são as formas graves de alopecia areata?
+    
+    Ofiásica, total e universal.
+    
+- Quais doenças podem estar associadas à alopecia areata?
+    
+    Dermatite atópica, síndrome de Down, vitiligo, hipotireoidismo e pitting ungueal.
+    
+- Quais são os achados tricoscópicos na alopecia areata?
+    
+    Pontos amarelos, pontos pretos, pelos fraturados, pelos peládicos e coudability hairs.
+    
+- Qual é o sinal tricoscópico mais específico de alopecia areata?
+    
+    Pelos peládicos (em ponto de exclamação).
+    
+    - Presente na doença aguda, em atividade → que responde bem ao tratamento
+- Quais são os fatores de pior prognóstico na alopecia areata?
+    - Início na infância
+    - Duração > 1 ano, área extensa
+    - Acometimento ungueal
+    - Associação com atopia ou doenças autoimunes
+    - História familiar
+    - Síndrome de Down.
+- Quais são os tratamentos para alopecia areata?
+    
+    Corticoide tópico, intralesional (melhor para alopecia areata), imunoterapia tópica, corticoide oral, imunossupressores e inibidores da JAK.
+    
+- Quais fungos causam tinea capitis?
+    
+    Microsporum e Trichophyton.
+    
+- Quem é mais afetado por tinea capitis?
+    
+    Crianças e adultos imunossuprimidos.
+    
+- Como ocorre a transmissão da tinea capitis?
+    
+    Contato interpessoal, fômites e animais.
+    
+- Quais são os tipos de tinea capitis?
+    
+    Tonsurante, alopeciante e kerion celsi.
+    
+- O que caracteriza o kerion celsi?
+    
+    Placa com eritema, exsudação, pústulas, crostas e descamação peri/interfolicular.
+    
+- Quais são os sinais tricoscópicos de tinea capitis?
+    - Pelos fraturados
+    - Pontos pretos
+    - Pelos em saca-rolhas
+    - Pelos em código de barras
+    - Pelos em vírgula
+    - Pelos em zigue-zague
+- Qual é o sinal tricoscópico mais sugestivo de tinea capitis?
+    
+    Pelos em saca-rolhas.
+    
+- Por que o kerion celsi pode ser confundido com infecção bacteriana?
+    
+    Porque apresenta eritema, exsudação, pústulas e crostas.
+    
+- Por que o tratamento precoce do kerion celsi é importante?
+    
+    Para evitar alopecia cicatricial.
+    
+- Quais sinais clínicos indicam tinea capitis ativa?
+    
+    Descamação peri e interfolicular, pústulas e linfadenopatia regional.
+    
+- Qual o tratamento da tinea capitis?
+    
+    Sempre oral, com terbinafina ou griseofulvina.
+    
+- Qual o tipo de sífilis que pode causar alopecia?
+    
+    Sífilis secundária.
+    
+- Quais são as formas clínicas da alopecia sifilítica?
+    - Roído de traças
+    - Alopecia difusa
+    - Forma mista.
+- Onde é mais comum a alopecia sifilítica?
+    
+    Regiões occipital e parietal.
+    
+- Qual o principal diagnóstico diferencial da alopecia sifilítica?
+    
+    Alopecia areata.
+    
+- Qual o tratamento padrão para sífilis?
+    
+    Penicilina benzatina 2,4 milhões de UI, dose única.
+    
+- Quais são as alternativas ao tratamento padrão para sífilis?
+    - Doxiciclina 100 mg, VO, 2x ao dia por 15 dias.
+    - Ceftriaxona 1 g, IV ou IM, 1x ao dia por 8-10 dias (para gestantes).
+- Por que é importante pedir VDRL em pacientes com queixa de alopecia?
+    
+    Porque a sífilis secundária pode se manifestar como alopecia sifilítica.
+    
+- Qual a diferença entre alopecia sifilítica e infecção bacteriana no couro cabeludo?
+    
+    A alopecia sifilítica não apresenta características inflamatórias intensas como pústulas e exsudação, comuns em infecções bacterianas.
+    
+- Quais manifestações clínicas podem sugerir sífilis secundária além da alopecia?
+    
+    Lesões cutâneas, febre, linfadenopatia e outras manifestações sistêmicas.
+    
+- Qual é o impacto do diagnóstico tardio da alopecia sifilítica?
+    
+    Pode atrasar o tratamento da sífilis secundária, com risco de progressão para complicações mais graves.
