@@ -34,14 +34,14 @@ def parse_flashcards(file_path):
         elif stripped_line.startswith("- "):  # Question line (starts with "- ")
             if current_question and current_answer:
                 # Save the current flashcard
-                flashcards.append((current_question, "".join(current_answer)))
+                flashcards.append((current_question, "<br/>".join(current_answer)))
             # Start a new question (remove the leading "- ")
             current_question = stripped_line[2:].strip()
             current_answer = []
 
     # Add the last question-answer pair
     if current_question and current_answer:
-        flashcards.append((current_question, "".join(current_answer)))
+        flashcards.append((current_question, "<br/>".join(current_answer)))
 
     return flashcards, output_file_name
 

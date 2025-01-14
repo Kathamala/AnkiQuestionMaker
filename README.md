@@ -11,3 +11,4 @@ Formato esperado para conversão:
 | Imagem       | ???                | Linha 4  | Linha 4  | Linha 4  |
 | Link         | ???                | Linha 5  | Linha 5  | Linha 5  |
 
+Ao importar no Anki, deve-se habilitar opção para "Permitir HTML em campos".
